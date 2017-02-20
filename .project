@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
+<<<<<<< HEAD
 	<name>hellow</name>
+=======
+	<name>systminfo</name>
+>>>>>>> branch 'master' of https://github.com/xiaoxiapan/test.git
 	<comment></comment>
 	<projects>
 	</projects>
